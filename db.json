@@ -1,7 +1,5 @@
 {
   "reservation": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
     {
         "imagePath": "assets/images/y1.jpg",
         "titleTxt": "RAZER PRO 3200",
@@ -13,13 +11,121 @@
         "fromTime": "09:10",
         "toTime": "15:30",
         "location": "location1"
+    },
+    {
+        "imagePath": "assets/images/y2.jpg",
+        "titleTxt": "NOVA JOLLY - PRINCE",
+        "subTxt": "Ammar Hammadeh",
+        "period": "month",
+        "price": 200,
+        "fromDate": "2021-06-31",
+        "toDate": "2021-06-03",
+        "fromTime": "09:10",
+        "toTime": "15:30",
+        "location": "location2"
+    },
+    {
+     "imagePath": "assets/images/1.jpg",
+        "titleTxt": "LazerSat 55",
+        "subTxt": "Shaam Mansour",
+        "period": "month",
+        "price": 60,
+        "fromDate": "2021-07-06",
+        "toDate": "2021-07-00",
+        "fromTime": "09:10",
+        "toTime": "15:30",
+        "location": "location3"
+        }
+  ],
+  "favorite": [
+      {
+      "imagePath": "assets/images/y1.jpg",
+      "titleTxt": "RAZER PRO 3200",
+      "subTxt": "Yaser Alhamwi",
+      "period": "month",
+      "price": 180,
+      "location": "location1",
+    },
+      {
+      "imagePath": "assets/images/y2.jpg",
+      "titleTxt": "NOVA JOLLY - PRINCE",
+      "subTxt": "Ammar Hammadeh",
+      "period": "month",
+      "price": 200,
+      "location": "location2",
+    },
+      {
+      "imagePath": "assets/images/b1.jpg",
+      "titleTxt": "RAZER PRO 3200",
+      "subTxt": "Yaser Alhamwi",
+      "period": "month",
+      "price": 180,
+      "location": "location3",
+    },
+      {
+      "imagePath": "assets/images/y3.jpg",
+      "titleTxt": "NOVA JOLLY - PRINCE",
+      "subTxt": "Ammar Hammadeh",
+      "period": "month",
+      "price": 200,
+      "location": "location4",
     }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "boats": [
+     {
+      "name": "RAZER PRO 3200 ",
+      "type": "YACHT",
+      "owner": "yaser alhamwi",
+      "model": "3620",
+      "length": 12,
+      "speed": 40.0,
+      "personCount": 14,
+      "crewCount": 2,
+      "cabins": 0,
+      "manufacturer": "VOLVO",
+      "imagePath": ["assets/images/1.jpg", "assets/images/2.jpg", "assets/images/3.jpg"],
+      "period": "day",
+      "price": 180,
+      "description":
+          "We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time in the privacy policy page. These choices will be signaled to our partners and will not affect browsing data.",
+      "isFavorite": true,
+      "location": "Jeddah",
+    },
+    {
+      "name": "NOVA JOLLY - PRINCE",
+      "type": "BOAT",
+      "owner": "yaser alhamwi",
+      "model": "3620",
+      "length": 6,
+      "speed": 80.0,
+      "personCount": 4,
+      "crewCount": 1,
+      "cabins": 1,
+      "manufacturer": "Toyota",
+      "imagePath": ["assets/images/2.jpg", "assets/images/1.jpg", "assets/images/3.jpg"],
+      "period": "day",
+      "price": 220,
+      "description": "These choices will be signaled to our partners and will not affect browsing data."
+      "isFavorite": false,
+      "location": "Riad",
+    },
+    {
+      "name": "LazerSat 55",
+      "type": "JETSKI",
+      "owner": "yaser alhamwi",
+      "model": "230",
+      "length": 5,
+      "speed": 60.0,
+      "personCount": 5,
+      "crewCount": 1,
+      "cabins": 2,
+      "manufacturer": "SYta",
+      "imagePath": ["assets/images/3.jpg", "assets/images/1.jpg", "assets/images/2.jpg"],
+      "period": "month",
+      "price": 3000,
+      "description": "These choices will be signaled to our partners and will not affect browsing data.",
+      isFavorite": true,
+      "location": "Dammam",
+    }
+  ]
 }
