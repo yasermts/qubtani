@@ -44,7 +44,7 @@
       "subTxt": "Yaser Alhamwi",
       "period": "month",
       "price": 180,
-      "location": "location1",
+      "location": "location1"
     },
       {
       "imagePath": "assets/images/y2.jpg",
@@ -52,7 +52,7 @@
       "subTxt": "Ammar Hammadeh",
       "period": "month",
       "price": 200,
-      "location": "location2",
+      "location": "location2"
     },
       {
       "imagePath": "assets/images/b1.jpg",
@@ -60,7 +60,7 @@
       "subTxt": "Yaser Alhamwi",
       "period": "month",
       "price": 180,
-      "location": "location3",
+      "location": "location3"
     },
       {
       "imagePath": "assets/images/y3.jpg",
@@ -68,7 +68,7 @@
       "subTxt": "Ammar Hammadeh",
       "period": "month",
       "price": 200,
-      "location": "location4",
+      "location": "location4"
     }
   ],
   "boats": [
@@ -89,7 +89,7 @@
       "description":
           "We and our partners store and/or access information on a device, such as unique IDs in cookies to process personal data. You may accept or manage your choices by clicking below, including your right to object where legitimate interest is used, or at any time in the privacy policy page. These choices will be signaled to our partners and will not affect browsing data.",
       "isFavorite": true,
-      "location": "Jeddah",
+      "location": "Jeddah"
     },
     {
       "name": "NOVA JOLLY - PRINCE",
@@ -107,7 +107,7 @@
       "price": 220,
       "description": "These choices will be signaled to our partners and will not affect browsing data.",
       "isFavorite": false,
-      "location": "Riad",
+      "location": "Riad"
     },
     {
       "name": "LazerSat 55",
@@ -125,7 +125,7 @@
       "price": 3000,
       "description": "These choices will be signaled to our partners and will not affect browsing data.",
       "isFavorite": true,
-      "location": "Dammam",
+      "location": "Dammam"
     }
   ]
 }
