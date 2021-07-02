@@ -105,7 +105,7 @@
       "imagePath": ["assets/images/2.jpg", "assets/images/1.jpg", "assets/images/3.jpg"],
       "period": "day",
       "price": 220,
-      "description": "These choices will be signaled to our partners and will not affect browsing data."
+      "description": "These choices will be signaled to our partners and will not affect browsing data.",
       "isFavorite": false,
       "location": "Riad",
     },
@@ -124,7 +124,7 @@
       "period": "month",
       "price": 3000,
       "description": "These choices will be signaled to our partners and will not affect browsing data.",
-      isFavorite": true,
+      "isFavorite": true,
       "location": "Dammam",
     }
   ]
