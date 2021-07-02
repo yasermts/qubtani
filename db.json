@@ -1,38 +1,36 @@
 {
-{
-        imagePath: 'assets/images/y1.jpg',
-        titleTxt: 'RAZER PRO 3200',
-        subTxt: 'Yaser Alhamwi',
-        period: 'month',
-        price: 180,
-        fromDate: '2021-06-25',
-        toDate: '2021-06-02',
-        fromTime: '09:10',
-        toTime: '15:30',
-        location: 'location1'
+        'imagePath': 'assets/images/y1.jpg',
+        'titleTxt': 'RAZER PRO 3200',
+        'subTxt': 'Yaser Alhamwi',
+        'period': 'month',
+        'price': 180,
+        'fromDate': '2021-06-25',
+        'toDate': '2021-06-02',
+        'fromTime': '09:10',
+        'toTime': '15:30',
+        'location': 'location1'
     },
     {
-        imagePath: 'assets/images/y2.jpg',
-        titleTxt: 'NOVA JOLLY - PRINCE',
-        subTxt: 'Ammar Hammadeh',
-        period: 'month',
-        price: 200,
-        fromDate: '2021-06-31',
-        toDate: '2021-06-03',
-        fromTime: '09:10',
-        toTime: '15:30',
-        location: 'location2'
+        'imagePath': 'assets/images/y2.jpg',
+        'titleTxt': 'NOVA JOLLY - PRINCE',
+        'subTxt': 'Ammar Hammadeh',
+        'period': 'month',
+        'price': 200,
+        'fromDate': '2021-06-31',
+        'toDate': '2021-06-03',
+        'fromTime': '09:10',
+        'toTime': '15:30',
+        'location': 'location2'
     },
     {
-        imagePath: 'assets/images/1.jpg',
-        titleTxt: 'LazerSat 55',
-        subTxt: 'Shaam Mansour',
-        period: 'month',
-        price: 60,
-        fromDate: '2021-07-06',
-        toDate: '2021-07-00',
-        fromTime: '09:10',
-        toTime: '15:30',
-        location: 'location3'
+        'imagePath': 'assets/images/1.jpg',
+        'titleTxt': 'LazerSat 55',
+        'subTxt': 'Shaam Mansour',
+        'period': 'month',
+        'price': 60,
+        'fromDate': '2021-07-06',
+        'toDate': '2021-07-00',
+        'fromTime': '09:10',
+        'toTime': '15:30',
+        'location': 'location3'
         }
-    }
