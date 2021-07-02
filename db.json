@@ -1,8 +1,19 @@
 {
-  "posts": [
+  "reservation": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+        "imagePath": "assets/images/y1.jpg",
+        "titleTxt": "RAZER PRO 3200",
+        "subTxt": "Yaser Alhamwi",
+        "period": "month",
+        "price": 180,
+        "fromDate": "2021-06-25",
+        "toDate": "2021-06-02",
+        "fromTime": "09:10",
+        "toTime": "15:30",
+        "location": "location1"
+    }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
